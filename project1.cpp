@@ -1,6 +1,4 @@
 #include<stdio.h>
-#include<pthread.h>
-#include<semaphore.h>
 #include<unistd.h>
 
 int n,n1,i,j,k=0,tot=0,x,c=0,atat=0,awt=0,minat=0;
